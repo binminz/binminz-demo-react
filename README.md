@@ -1,6 +1,15 @@
 # binminz-demo-react
 
 
+## 
+
+## 1. node.js 설치, vs code 설치 
+
+## 2. 이 프로젝트 clone 으로 다운받기 
+
+## 3. vs code 터미널 열고 binminz-react 파일 들어와서 npm start 명령어 실행 
+
+## 설치과정
 
 ## 1. node.js 설치 - 'node -v', 'npm -v' 명령어로 설치 확인
 
